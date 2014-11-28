@@ -1,4 +1,4 @@
 testni_repo
 ===========
 
-testno, brisi
+testno, briši
